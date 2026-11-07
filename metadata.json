@@ -1,0 +1,6 @@
+{
+  "name": "سامانه بازرسی گواهی امضای الکترونیکی (RA Audit)",
+  "description": "سامانه جامع بازرسی دوره‌ای دفاتر صدور گواهی الکترونیکی، نمونه‌گیری هوشمند اکسل، کارتابل بارگذاری، مرکز اعلان‌ها و تبادل پیام و وب‌هوک نظارتی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
